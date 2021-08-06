@@ -1,0 +1,10 @@
+This document for understanding how use our code in other PC/Server
+
+1. Pre-requisite of the PC
+	install python command mode
+	install flask 
+2. Run the WPDML.ipynb from the directory where you copied the folder
+	example D:\Project_WPDML
+3. Run the flask from python command mode
+4. Run the app.py from the python command mode
+	
